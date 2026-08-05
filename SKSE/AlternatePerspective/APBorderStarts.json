@@ -1,8 +1,8 @@
 [
     {
         "mod": "Alternate Perspective Border Starts.esp",
-        "text": "Border Pass",
-        "description": "You crossed the border into Skyrim.",
+        "text": "At the border",
+        "description": "You are at Skyrim's border.",
         "color": "0x2759FF",
         "suboptions": [
             {

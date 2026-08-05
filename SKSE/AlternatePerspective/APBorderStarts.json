@@ -1,0 +1,30 @@
+[
+    {
+        "mod": "Alternate Perspective Border Starts.esp",
+        "text": "Border Pass",
+        "description": "You crossed the border into Skyrim.",
+        "color": "0x2759FF",
+        "suboptions": [
+            {
+                "text": "$AltPersp_Random",
+                "id": "0"
+            },
+            {
+                "text": "Falkreath (South)",
+                "id": "0x5"
+            },
+            {
+                "text": "Falkreath (West)",
+                "id": "0x6"
+            },
+            {
+                "text": "Eastmarch",
+                "id": "0x7"
+            },
+            {
+                "text": "The Rift",
+                "id": "0x8"
+            }
+        ]
+    }
+]
